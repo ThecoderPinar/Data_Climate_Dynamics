@@ -1,6 +1,6 @@
 # Global Climate Change and Sea Level Analysis Project
 
-![Project Logo](project_logo.png)
+
 
 ## Project Description
 
