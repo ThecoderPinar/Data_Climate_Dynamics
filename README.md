@@ -23,12 +23,6 @@ This project aims to examine the relationship between global climate change and 
 3. Navigate to the project directory: `cd Climate_Analysis`
 4. Start Jupyter Notebook: `jupyter notebook`
 
-## Usage
-
-- The `Sea_Level_Analysis.ipynb` file analyzes sea level data.
-- The `Climate_Change_Analysis.ipynb` file analyzes climate change data.
-- The `Daily_Rainfall_Air_Quality_Analysis.ipynb` file analyzes daily rainfall and air quality data.
-
 ## Contribution
 
 1. Fork this project.
